@@ -49,7 +49,7 @@ WordPress 插件库[下载](https://wordpress.org/plugins/wp-editormd/)
 
 ### 使用说明 ReadMe
 
-请参考 [WP-Editor.md Wiki](https://github.com/JaxsonWang/WP-Editor.md/wiki)
+请参考 [WP-Editor.md Wiki](https://github.com/canyuedao/WP-Editor.md/wiki)
  
 ### 更新日志 ChangeLog
 
